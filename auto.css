@@ -1,0 +1,43 @@
+header
+{
+	background-color: #45517D;
+	color: white;
+	font-size: 120%;
+	text-align: right;
+	height: 60px;
+}
+article
+{
+	background-color: #61B2EC;
+	width: 40%; 
+	height: 500px;
+	float: left;
+}
+aside
+{
+	background-color: #8EC9F2;
+	width: 60%; 
+	height: 500px;
+	float: left;
+}
+footer
+{
+	background-color: #45517D;
+	 
+	color: white;
+	font-size: 150%;
+	text-align: center;
+	clear: both;
+}
+a:link
+{
+	color: red;
+}
+a:hover
+{
+	color: green;
+}
+table
+{
+	width: 100%;
+}
