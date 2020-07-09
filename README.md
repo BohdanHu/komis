@@ -1,1 +1,1 @@
-# komis PDO PHP
+# komis POO PHP
